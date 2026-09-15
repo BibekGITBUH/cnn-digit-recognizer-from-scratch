@@ -5,9 +5,9 @@
 
 ### An end-to-end handwritten digit recognition application built entirely from scratch using NumPy. The project implements a Convolutional Neural Network (CNN) without deep learning frameworks and provides an interactive GUI for drawing and predicting digits.
 #
-# Demo Video of a System
-<video controls src="cnn_video.mp4" title="Title"></video>
+## 🎥 Demo Video of the System
 
+[▶️ Watch Demo Video](./cnn_video.mp4)
 #
 # Features
 
