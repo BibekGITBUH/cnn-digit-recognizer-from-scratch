@@ -5,6 +5,10 @@
 
 ### An end-to-end handwritten digit recognition application built entirely from scratch using NumPy. The project implements a Convolutional Neural Network (CNN) without deep learning frameworks and provides an interactive GUI for drawing and predicting digits.
 #
+# Demo Video of a System
+<video controls src="cnn_video.mp4" title="Title"></video>
+
+#
 # Features
 
 ### ✅ CNN implemented from scratch using NumPy
@@ -59,3 +63,22 @@
 ### Dataset preprocessing and model training pipelines
 ### Designing self-improving machine learning applications
 ### Building desktop AI applications with Python
+
+
+
+#
+# Images of the Note — To Whom It May Concern
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.20 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.21 PM (1).jpeg>)
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.21 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.22 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.22 PM (1).jpeg>)
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.22 PM (2).jpeg>)
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.23 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.23 PM (1).jpeg>)
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.23 PM (2).jpeg>)
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.24 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.24 PM (1).jpeg>)
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.24 PM (2).jpeg>)
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.25 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-09-15 at 8.44.25 PM (1).jpeg>)
